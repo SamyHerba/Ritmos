@@ -54,27 +54,6 @@ header {
   display: none;
 }
 
-.mobile-menu {
-  display: none;
-}
-.mobile-menu ul {
-  display: block;
-  flex-direction: column;
-  text-align: center;
-  padding-top: 1rem;
-}
-
-.mobile-menu .nav-item {
-  display: block;
-  padding-top: 1.2rem;
-}
-.mobile-menu .login-button {
-  display: block;
-  padding: 1rem 2rem;
-}
-.mobile-menu .login-button button {
-  width: 100%;
-}
 .open{
   display: block;
 }
